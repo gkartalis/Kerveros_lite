@@ -19,7 +19,6 @@
 </head>
 <body>
 <?php include("dbcon.php");
-				// skjsfa
 			?>
 
 	<div>
